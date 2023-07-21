@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariane Valasques</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-I've been working with tech from the moment I enrolled at the University, back in 2015.
+I've been working with tech from the moment I enrolled at the University, back in 2018.
 Since my graduation I've been eager to put my skills to the test and improve them. Also, I’m quite aware that I have a ton to learn and a lot of experience to gain. And that is what I most look forward to.
 
 - 🌱 I’m currently learning **react, next.js and react native**
